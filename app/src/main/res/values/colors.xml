@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parkinson_orange">#FF6600</color>
+    <color name="backgroundClr">#FFFFFF</color>
+    <color name="toolbarClr">#525252</color>
+    <color name="black">#e91f1f1f</color>
+</resources>
